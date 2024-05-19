@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -66,4 +65,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
->>>>>>> be41bdc (data-structure)
